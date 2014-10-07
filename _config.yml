@@ -9,7 +9,7 @@ name: Glenn Rees
 description: Writer, editor, publisher
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/8668846?v=2&s=460
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin: au.linkedin.com/in/glennrees/
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: 
+  twitter: twitter.com/glennrees
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
